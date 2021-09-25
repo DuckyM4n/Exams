@@ -1,3 +1,4 @@
+Đặng Quang Phúc
 git init: Khởi tạo kho chứa git mới
 git add (tên tệp): Thêm thay đổi nhất định vào chỉ mục Index.
 git add . hoặc git add --all: Thêm toàn bộ files hoặc thay đổi vào Index.
